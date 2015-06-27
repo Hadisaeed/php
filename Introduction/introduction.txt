@@ -1,0 +1,54 @@
+
+=========================================== Introduction Of PHP===========================================================
+Q: What is PHP ?
+
+
+A:	Php is an acronym which means hyper text preprocessor.
+	php is a server side scripting language and its scripts run on server.
+
+
+Q: What can PHP DO?
+
+
+A:	PHP can create dynamic web sites /pages.
+	Php can collect data.
+	provides user access and control
+	php can add, delete update and Modify your  database
+	Php can encrypt data.
+
+
+Q: Why we use Php?
+
+
+A:	Php supports wide range of database and is compatible with almost all server used today
+
+
+=========================================================================================================================
+
+server which you can use on your local machine are
+1. xammp
+2. wamp stands for (Windows apachi MySQl PHP)
+ 
+
+xampp stands of 
+x for any operating system
+a for apachi
+m for mySql
+p for php
+p for perl
+
+
+The web dictrory of xampp is Htdoc 
+you save all your php file in htdoc folder
+xampp/htdoc/hello_world
+
+
+for see output of your php file open browser and type
+
+General Syntax is:
+
+	localhost/filename.php
+
+suppose you have a php file and its name is Hello_world than  you type this in your browser
+
+	localhost/Hello_world.php
