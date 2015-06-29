@@ -1,0 +1,81 @@
+
+Php supports the following data types
+
+	string
+	float
+	integer
+	boolean
+	array
+	object
+	null
+	resource
+
+
+	PHP String:
+
+	
+	A string is a sequence of characters, like "Hello world!".
+	A string can be any text inside quotes. You can use single or double quotes:
+
+
+	PHP Integer:
+
+	An integer is a whole number (without decimals).  It is a number between -2,147,483,648 and +2,147,483,647.
+
+
+	PHP Float:
+
+
+	A float (floating point number) is a number with a decimal point or a number in exponential form.
+	In the following example $x is a float.
+
+
+	PHP Boolean:
+
+	A Boolean represents two possible states: TRUE or FALSE.
+
+	PHP Array:
+
+	An array stores multiple values in one single variable.
+	In the following example $cars is an array.
+
+
+
+	PHP Object:
+
+	An object is a data type which stores data and information on how to process that data.
+	In PHP, an object must be explicitly declared.
+	First we must declare a class of object. For this, we use the class keyword. 
+	A class is a structure that can contain properties and methods
+
+
+	PHP NULL Value:
+
+	Null is a special data type which can have only one value: NULL.
+	A variable of data type NULL is a variable that has no value assigned to it.
+	If a variable is created without a value, it is automatically assigned a value of NULL.
+	Variables can also be emptied by setting the value to NULL
+
+	PHP Resource:
+
+	The special resource type is not an actual data type. It is the storing of a reference to functions 
+	and resources external to PHP.
+	A common example of using the resource data type is a database call.
+
+
+
+	Php has a number of function to test data type of a variables some of are as follows:
+
+	var_dump();
+	is_numeric();
+	is_int();
+	is_float();
+	is_bool();
+	is_string();
+	is_array();
+	is_object();
+	is_resorce();
+	is_null();
+
+
+	All these function takes one arguments and return a value.
