@@ -1,0 +1,46 @@
+
+
+	=========================================OPERATORS=================================================
+
+	operators are use to perform operations on variables and values.
+
+
+	PHP OPERATORS:
+
+	1.Assignment operator (=,+=,-=,*=,/=,%=)
+
+	Assignment operator is use to assign  value to variable in Php.
+	Assignment operator assign the right hand side value to the left hand side.
+
+for example:
+		$x=10;
+
+
+	2.Arithmatic operators:
+
+	+ for addition
+	- for subtraction
+	* for multipication
+	/ for division
+	% modulus for reminder.
+
+
+	3.Comparision Operators:
+
+	<  less than 
+	>  greater than
+	<= less than equal to
+	>= greater than equal to
+	!= not equal to
+
+	4.Logical Operators:
+
+	&& And Operator
+	|| OR Operator
+	! not operator
+
+	5. Increment and Decrement Operator
+
+
+	++
+	--
