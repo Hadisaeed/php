@@ -1,0 +1,116 @@
+
+
+			PHP CONDITIONAL STATEMENTS
+
+	In php we have the following conditional statements
+
+	if statement
+	if-else statement
+	if-else if-else statement
+	switch statement
+
+
+	if Statement:
+syntax
+	if(condition)
+	{
+
+
+	code executed if condition is true
+
+
+	}
+
+
+
+	if-else Statement:
+
+syntax 
+
+	if(condition)
+	{
+
+
+	code executed if condition is true
+
+
+	}
+
+	else
+
+	{
+
+	code executed if condition is flase
+
+	}
+	 
+
+	if-else if-else Statement:
+
+syntax 
+
+	if(condition)
+	{
+
+
+	code executed if condition is true
+
+
+	}
+
+
+	else if(condition)
+	{
+
+
+	code executed if condition is true
+
+
+	}
+
+	
+	else
+
+	{
+
+	code executed if condition is flase
+
+	}
+	 
+	
+
+	Php  switch Statement:
+	
+	use switch statement select one of the many blocks of code to be executed
+
+
+
+syntax
+
+
+	switch(n)
+	{
+
+	case label1:
+
+	code to be executed if n= label 1;
+	break;
+
+
+	case label2:
+
+	code to be executed if n= label 2;
+	break;
+
+
+	default:
+
+	code to be executed if n is different from both label 1 and label2;
+	break;
+
+
+
+	}
+
+
+		The Main difference b/w if-else  and switch statement is that we can not use relational operator in switch statement.

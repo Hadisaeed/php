@@ -1,0 +1,63 @@
+LOOPs:
+
+
+Loops executes a block of code a specified number of time untill the
+condition remains true.
+  
+
+
+In PHP we have the following looping statements
+
+	For LOOP
+	WHILE LOOP
+	DO-WHILE LOOP
+	FOR EACH LOOP
+	
+FOR LOOP SYNTAX:
+
+
+	for(init;condition;increment/decrement)
+	{
+
+		code to be executed;
+
+
+	} 
+
+
+
+While LOOP SYNTAX:
+
+
+	while(condition)
+	{
+
+		code to be executed;
+
+
+	} 
+
+
+
+dO while LOOP SYNTAX:
+
+
+	do
+	{
+
+		code to be executed;
+
+
+	}
+
+	while(condition) 
+
+
+
+IMPORTANT 
+
+
+
+	do while loop execute atleast one time if 
+	the condition is flase
+	it is a bottom testing loop.
