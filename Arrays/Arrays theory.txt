@@ -1,0 +1,51 @@
+
+
+
+
+	What is an array?
+
+
+	An array stores multiple values on single variable or we can say that
+
+			An array is a special variable which can hold more than one values at a time.
+
+
+In php there are three types of arrays
+
+1.Indexed Array: Arrays with numeric Index.
+
+2.Associative Array:Arrays with named keys.
+
+3.Multidimensional Array:Arrays contianing one or more arrays.
+
+
+
+
+
+
+
+		Indexed/Numeric Arrays
+
+
+	A numeric array stores each element with a numeric Id key.
+
+	The index can be assigned automatically(index always starts at o).
+
+
+		Associative Arrays
+
+	when storing data about specific named values, a numerical array is not always best ay to do it
+	with associative arrays each element referenced by a string index, typically a numeric index
+	is called an index and a string index is called a key.
+
+
+	Associative arrays are arrays that use named keys that you assign to them.when storing data
+	about specific named values.	
+
+
+
+		Multidimensional Arrays
+
+
+	In a multidimensional array each element in the main array can also be an array.
+	And each element in the sub-array can be an array and so on.
