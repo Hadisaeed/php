@@ -1,0 +1,82 @@
+
+
+				PHP FUNCTIONS
+
+
+	Group of statements under single name is called function.
+
+		"A function is a block of code that can be executed whenever we use it" 
+
+
+	Why functions are useful??
+
+	* They avoid duplicating code
+	* They make it easier to eliminate errors.
+
+
+
+		Tpyes of Functions:
+
+			* User-define functions:
+
+				Function which are created by user or programmer is called user define function.
+
+
+			* Built In functions: 
+
+				Built in function are also called Ready made function.The real power of PHP comes from its function
+				
+			In Php there are more than 700 built in function available.
+
+
+
+	
+	How to create a function
+
+
+
+		Syntax:
+
+	The function start with the word function and name the function.
+	The function code after curly braces.
+	The function is finished by a closing curly braces.
+
+
+	Example:
+			function test()
+
+					{
+
+
+						insert function code here;
+
+
+					} 
+
+
+
+			Parameter function:
+
+				A parameter is a varible that hold the value  passed to it when the function is called.
+			if we want to pass arguments/parameter to the function we place them b/w parenthesis separating each argument by
+			comma
+
+
+
+			function test(argument)
+				{
+				
+					insert function code here
+					
+				}
+
+
+				function test(argument1,argument2)
+				{
+				
+					insert function code here
+					
+				}
+
+
+	
