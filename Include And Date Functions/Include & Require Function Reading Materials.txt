@@ -1,0 +1,36 @@
+
+
+			Include And Date Function
+
+	The Include Function:
+
+		The include() function takes all the text in a specific file and copies it
+		into the file that uses the include function.
+		
+	for example:
+
+		include("page1.php");
+
+
+
+
+	The Require Function:
+
+		The require() function is identical to include()
+
+		require("page1.php");
+
+
+
+	Difference Between Them:
+
+
+	The two function are identical in every way except how they handle errors.
+
+
+		The include() function generates a warning but the script will continue execution.
+
+		
+
+		The require() function generates a fetal errors and the script execution will stop
+		after error.

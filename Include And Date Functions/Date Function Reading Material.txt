@@ -1,0 +1,42 @@
+  
+
+
+
+		Php Date() Function
+
+
+	The php date() function is used to format a time or date.
+
+	The php date() function formats a timestramp to a more readable date and time.
+
+		syntax:
+
+			date(format, timestramp);
+
+
+	PHP Date Format:
+
+		The first parameter in date() function specifies how to format date/time.
+		It uses letters to represent date and time format.
+
+	here are some of the letters that can be used
+
+
+		d=the day of the month
+		m= The current month as number(01-12)
+		y= The current year in four digits.
+
+
+
+	What is Timestramp?
+
+
+		A timestramp is the number of seconds since january 1, 1970 at 00:00:00 GMt.
+		This is also known as the unix timestramp
+
+
+			The mktime() function return the unix timestramp for a specific date.
+
+		syntax:
+
+			mk(hour,minute,second,month,day,year,is_dst);  
