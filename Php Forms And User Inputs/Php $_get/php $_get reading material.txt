@@ -1,0 +1,14 @@
+
+
+
+			Php Forms And User Inputs
+
+
+	Php $_Get:
+
+
+		The Php $_get variable are used to retrive information from form like user input.
+
+	The $_get variable is used to collect values from a form with method="get".Information
+	send from a form with the get method method is visible to everyone and it has limits
+	on the amount of information to send (max 100 cahracters).  

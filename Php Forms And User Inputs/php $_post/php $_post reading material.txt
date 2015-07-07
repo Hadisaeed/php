@@ -1,0 +1,13 @@
+
+
+	Php Forms And User Inputs
+
+
+	Php $_Post:
+
+
+		The Php $_Post variable are used to retrive information from form like user input.
+
+	The $_Post variable is used to collect values from a form with method="Post".Information
+	send from a form with the get method method is invisible to Others and it has no limits
+	on the amount of information to send.  

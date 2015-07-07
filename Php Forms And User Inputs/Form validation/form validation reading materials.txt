@@ -1,0 +1,21 @@
+
+
+
+			Form Validation
+
+	1.client side validation: its done on browser by using Javascript and Html5
+	2. server side validation
+
+
+	Form validation:
+
+		user inputs should be validated whenever possible.
+
+	* client side validation is faster and will reduce server load.
+	* however any site that gets enough traffic to worry about server resource may also need
+	  to worry about site security
+	* you should always use sever side validation if the form accesses a database.
+	* A Good way to validate a form on the server is to post the form to itself instead of
+	  jumping to different pages.
+	* The user will then get the errors message on the same page as the form. This makes it
+	  easier to discover the error 
