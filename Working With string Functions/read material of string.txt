@@ -1,0 +1,28 @@
+
+
+
+								Working with string
+
+
+
+			
+
+				A string is a sequence of character like " hello world".
+
+
+
+		String Functions:
+
+					1.strlen(): it returns the length of a string
+					
+					2.str_word_count(): It counts the number of words in a string.
+
+					3.strrev(): it reverse a string.
+
+					4.strpos(): it search a specific text with in a string.
+
+					5.str_replace(): it replace some characters with some other character in a string.
+
+
+
+		
